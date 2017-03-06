@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for row in 0 60;
+    do for BG in `seq 40 47`;
+        do echo -en "$EINS\033[$((BG+row)) m       \033[0m ";
+    done
+    echo;
+done
