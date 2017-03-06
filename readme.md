@@ -1,8 +1,8 @@
-### .dotfiles ###
+## .dotfiles ##
 
 Monokai colorscheme everywhere
 
-## applications ##
+### applications ###
 * zsh - Shell
 * urxvt - Unicode terminal
 * vim - Text editor
